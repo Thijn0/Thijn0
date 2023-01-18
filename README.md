@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thijn!
 - 👀 I’m interested in Programming and Ethical Hacking.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning HTML and Python
 
 <!---
 Thijn0/Thijn0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
