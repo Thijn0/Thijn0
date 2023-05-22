@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thijn</h1>
-<h3 align="center">A programmer that loves to learn new things! 🤔</h3>
+<h3 align="center">A programmer that loves to learn new languages! 🤔</h3>
 
 <p align="left">
 </p>
