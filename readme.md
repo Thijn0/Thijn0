@@ -32,8 +32,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Thijn0/Thijn0/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/0c87576fffb5f844efc06dca26470135da797a65/github-contribution-grid-snake.svg"  />
+</div>
 
 ###
