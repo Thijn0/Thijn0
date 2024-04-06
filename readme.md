@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamMzOTBqNHllZWg2amVudDRzMWpwMGVwYmVjdGNqNmNuMG10a3JhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWd5Go1F2qDsg1O/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW03eG5ya3owZ2YyY3lncThyeXhwcDg1eTBlMWxlNXR3aDk3cWt2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif"  />
 
 ###
 
@@ -32,8 +32,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/0c87576fffb5f844efc06dca26470135da797a65/github-contribution-grid-snake.svg"  />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Thijn0/Thijn0/output/snake.svg" alt="Snake animation" />
 
 ###
