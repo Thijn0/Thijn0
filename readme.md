@@ -25,15 +25,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/0c87576fffb5f844efc06dca26470135da797a65/github-contribution-grid-snake.svg"  />
-</div>
-
-###
