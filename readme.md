@@ -2,13 +2,7 @@
 
 ###
 
-<div align="center"> _________  ___  ___  ___        ___  ________      </div>
-<div align="center">|\___   ___\\  \|\  \|\  \      |\  \|\   ___  \    </div>
-<div align="center">\|___ \  \_\ \  \\\  \ \  \     \ \  \ \  \\ \  \   </div>
-<div align="center">    #\ \  \ \ \   __  \ \  \  __ \ \  \ \  \\ \  \  </div>
-<div align="center">      \ \  \ \ \  \ \  \ \  \|\  \\_\  \ \  \\ \  \ </div>
-<div align="center">       \ \__\ \ \__\ \__\ \__\ \________\ \__\\ \__\</div>
-<div align="center">        \|__|  \|__|\|__|\|__|\|________|\|__| \|__|</div>
+<div align="center">-_-_-</div>
 
 
 ###
